@@ -20,3 +20,24 @@
     padding-right: 8%;
     font-size: 5.0rem;
   }
+
+  .numbers-button {
+      display: flex;
+      color: green;
+      
+      
+  }
+
+  .button-numbers {
+    height: 20px;
+    text-align: center;
+      display: flex;
+      background-color: blue;
+      color: green;
+      width: 20%;
+      border-radius: 70px;
+      
+
+      
+    
+  }
